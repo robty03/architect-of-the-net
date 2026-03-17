@@ -42,12 +42,12 @@ variable "availability_zone_2" {
 
 variable "instance_type" {
   description = "EC2 instance type"
-  type = string
-  default = "t3.micro"
+  type        = string
+  default     = "t3.micro"
 }
 
 variable "key_name" {
   description = "Existing AWS key pair name for EC2 SSH access"
-  type = string
-  default = "ip-spectre-key"
+  type        = string
+  default     = "ip-spectre-key"
 }
