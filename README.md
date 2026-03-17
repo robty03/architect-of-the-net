@@ -40,10 +40,10 @@ The platform contains the following main components:
   ## Screenshots
 
   ### CloudWatch Dashboard
-  ![CloudWatch Dashboard](monitoring\dashboard.png)
+  ![CloudWatch Dashboard](monitoring/dashboard.png)
 
   ### CLI Application
-  ![CLI Menu](docs\menu_app.png)
+  ![CLI Menu](docs/menu_app.png)
 
   ### GitHub Actions Workflow
-  ![GitHub Actions Success](docs\workflow.png)
+  ![GitHub Actions Success](docs/workflow.png)
